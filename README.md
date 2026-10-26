@@ -59,6 +59,13 @@ Task 2: Sales Performance – created a PivotTable by county/product and used SW
 
 Task 3: Bike Sales Visualizations – built charts for revenue vs. profits and product revenue by country.
 
+<img width="1138" height="590" alt="image" src="https://github.com/user-attachments/assets/5366b2df-61d0-48b5-bbca-52e1a988b916" />
+
+<img width="1307" height="591" alt="image" src="https://github.com/user-attachments/assets/f104bd35-e7e6-4c3b-9738-46b781c455dc" />
+
+<img width="1127" height="526" alt="image" src="https://github.com/user-attachments/assets/e738bf02-b95b-4419-89d1-94356f0dfa75" />
+
+
 📊 Datasets Used
 
 retail-sales_dataset.xlsx – Retail transactions with customer demographics, product categories, and commission.

@@ -2,11 +2,13 @@
 
 
 📌 Overview
+
 This repository contains the Week 1 Excel project completed during the Data Technician Bootcamp by LeepTalent. The workbook focuses on practical Excel skills for data analysis, using retail and sales datasets to demonstrate proficiency in formulas, data manipulation, PivotTables, and data visualization.
 
 The project covers essential data protection regulations (GDPR, Data Protection Act, etc.) alongside hands-on Excel exercises that build a strong foundation for data technician roles.
 
 🛠️ Skills Demonstrated
+
 Excel Formulas & Functions
 Function	Usage in Project
 SUM	Calculated total commission in retail sales data
@@ -35,6 +37,7 @@ Data Protection & Compliance
 Researched and summarised key legislation: Data Protection Act, GDPR, Freedom of Information Act, and Computer Misuse Act – understanding their impact on handling customer data.
 
 📂 Project Tasks
+
 Day 1: Data Protection Laws
 Researched common laws and regulations governing customer data.
 
@@ -57,6 +60,7 @@ Task 2: Sales Performance – created a PivotTable by county/product and used SW
 Task 3: Bike Sales Visualizations – built charts for revenue vs. profits and product revenue by country.
 
 📊 Datasets Used
+
 retail-sales_dataset.xlsx – Retail transactions with customer demographics, product categories, and commission.
 
 Bike_Sales_Pivot_Lab.xlsx – Bike sales data for PivotTable practice.
@@ -66,6 +70,7 @@ Bike_Sales_Visualizations_Lab.xlsx – Sales data for charting exercises.
 global_superstore_2016.xlsx – Additional dataset for extended practice (Global Superstore Data Challenge).
 
 🔍 Key Insights Gained
+
 PivotTable analysis revealed:
 
 Germany has customers only in the Adults (35-64) age group.

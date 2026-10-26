@@ -1,63 +1,77 @@
-# Excel_2026
-📊 Overview
-This repository contains a comprehensive Excel training workbook designed for aspiring Data Technicians. The workbook covers fundamental Excel skills including data manipulation, pivot tables, functions, and data visualization, along with essential knowledge of data protection laws and regulations.
+📊 Data Technician Bootcamp – Week 1 Excel Project
+📌 Overview
+This repository contains the Week 1 Excel project completed during the Data Technician Bootcamp by LeepTalent. The workbook focuses on practical Excel skills for data analysis, using retail and sales datasets to demonstrate proficiency in formulas, data manipulation, PivotTables, and data visualization.
 
-📁 Contents
-Day 1: Task 1 - Data Protection Laws Research
-Data Protection Act - Collection, storage, and use of personal data
+The project covers essential data protection regulations (GDPR, Data Protection Act, etc.) alongside hands-on Excel exercises that build a strong foundation for data technician roles.
 
-GDPR (General Data Protection Regulation) - EU data protection law
+🛠️ Skills Demonstrated
+Excel Formulas & Functions
+Function	Usage in Project
+SUM	Calculated total commission in retail sales data
+SUMIF	Conditional summing for sales analysis
+AVERAGE	Computed average commission
+AVERAGEIF	Conditional averaging for segmented data
+DATE, MONTH, YEAR	Extracted and manipulated date components for trend analysis
+UNIQUE	Identified distinct values in datasets
+VLOOKUP	Merged and looked up data across tables
+SWITCH	Categorised sales volumes into High/Medium/Low bands
+Data Manipulation & Analysis
+Filtering & Sorting – Filtered data by demographics (e.g., male sales in beauty for March), sorted by age and transaction ID.
 
-Freedom of Information Act - Public access to non-personal data
+PivotTables – Summarised sales by county and product, analysed bike sales by age group, gender, and country.
 
-Computer Misuse Act - Cybercrime and fraud prevention
-
-Day 2: Task 1 - Retail Sales Dataset Analysis
-Filtering and sorting data (Age column)
-
-Using SUM function for commission totals
-
-Using AVERAGE function for commission calculations
-
-Data filtering exercises (e.g., male sales in beauty for March, sales over 200 in Clothing)
-
-Day 3: Tasks 1-3
-Task	Description
-Task 1	Bike Sales Pivot Tables Lab - Analyzing sales by age group, gender, and country
-Task 2	Sales Performance Analysis - Creating pivot tables by county/product and using SWITCH function
-Task 3	Bike Sales Visualizations - Creating charts and graphs for revenue vs. profits
-🎯 Key Learning Outcomes
-By completing this workbook, learners will be able to:
-
-Understand Data Regulations - Knowledge of Data Protection Act, GDPR, Freedom of Information Act, and Computer Misuse Act
-
-Data Manipulation - Filter, sort, and organize datasets effectively
-
-Excel Functions - Apply SUM, AVERAGE, and SWITCH functions
-
-Pivot Tables - Create and customize pivot tables for data summarization
-
-Data Visualization - Build charts and graphs to present insights
-
-Conditional Categorization - Use logical functions to categorize data based on criteria
-
-🛠️ Skills Covered
-Data Filtering & Sorting
-
-SUM & AVERAGE Functions
-
-SWITCH Function
-
-Pivot Tables & Pivot Charts
+PivotCharts – Created dynamic charts from PivotTable data.
 
 Data Visualization
+Built line charts for revenue vs. profits over time.
 
-Data Protection Compliance
+Created stacked column charts for product revenue by country.
 
-📋 SWITCH Function Example
-text
-=SWITCH(TRUE, C2>600, "High", C2>=300, "Medium", "Low")
-Sales Volume	Category
->600	High
-300-600	Medium
-<300	Low
+Used PivotCharts to visualise sales distribution.
+
+Data Protection & Compliance
+Researched and summarised key legislation: Data Protection Act, GDPR, Freedom of Information Act, and Computer Misuse Act – understanding their impact on handling customer data.
+
+📂 Project Tasks
+Day 1: Data Protection Laws
+Researched common laws and regulations governing customer data.
+
+Provided real-world examples of compliance and consequences of breaches.
+
+Day 2: Retail Sales Analysis
+Dataset: retail-sales_dataset.xlsx
+
+Filtered and sorted data (Age, Transaction ID).
+
+Calculated total and average commission using SUM and AVERAGE.
+
+Practised filtering for specific segments (e.g., male sales in Beauty, sales over 200 in Clothing).
+
+Day 3: Pivot Tables & Visualizations
+Task 1: Bike Sales Pivot Lab – analysed sales by age group, gender, and country using PivotTables. Answered reflection questions on profitability.
+
+Task 2: Sales Performance – created a PivotTable by county/product and used SWITCH to categorise sales volume.
+
+Task 3: Bike Sales Visualizations – built charts for revenue vs. profits and product revenue by country.
+
+📊 Datasets Used
+retail-sales_dataset.xlsx – Retail transactions with customer demographics, product categories, and commission.
+
+Bike_Sales_Pivot_Lab.xlsx – Bike sales data for PivotTable practice.
+
+Bike_Sales_Visualizations_Lab.xlsx – Sales data for charting exercises.
+
+global_superstore_2016.xlsx – Additional dataset for extended practice (Global Superstore Data Challenge).
+
+🔍 Key Insights Gained
+PivotTable analysis revealed:
+
+Germany has customers only in the Adults (35-64) age group.
+
+Australia and UK have sales across all markets.
+
+United States is the most profitable country for Female Adults (35-64).
+
+UK has low sales across all markets; Canada only in young adult demographics; France only in younger markets.
+
+SWITCH function effectively segmented sales volumes into actionable categories (High/Medium/Low).

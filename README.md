@@ -1,4 +1,6 @@
 📊 Data Technician Bootcamp – Week 1 Excel Project
+
+
 📌 Overview
 This repository contains the Week 1 Excel project completed during the Data Technician Bootcamp by LeepTalent. The workbook focuses on practical Excel skills for data analysis, using retail and sales datasets to demonstrate proficiency in formulas, data manipulation, PivotTables, and data visualization.
 

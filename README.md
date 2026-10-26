@@ -82,3 +82,5 @@ United States is the most profitable country for Female Adults (35-64).
 UK has low sales across all markets; Canada only in young adult demographics; France only in younger markets.
 
 SWITCH function effectively segmented sales volumes into actionable categories (High/Medium/Low).
+
+‪<img width="1387" height="650" alt="image" src="https://github.com/user-attachments/assets/42834825-a824-4697-89f5-241897e3bcb3" />
